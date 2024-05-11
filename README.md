@@ -1,5 +1,3 @@
-# PIXI project template
+A Runner Game - created with Pixi.js and Matter.js
 
-Tutorial: https://gamedev.land/pixi_project_template/
-
-
+[From Tutorial](https://www.youtube.com/watch?v=oZInrjsClPg)
